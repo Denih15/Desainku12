@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
 Auth::routes();
@@ -23,3 +23,5 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/kontak', [DesainController::class, 'create']);
 Route::get('/Tambah', [DesainController::class, 'creates']);
+Route::get('/kontakedit', [DesainController::class, 'created']);
+Route::get('/homeedit', [DesainController::class, 'createf']);

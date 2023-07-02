@@ -12,13 +12,16 @@
     <style>
         .page {
             padding-top: 120px;
-            padding-bottom: 120px;}
+            padding-bottom: 120px;
+        }
 
         .color-new {
-            color: #c1272d;}
+            color: #c1272d;
+        }
 
         .color-new:hover {
-            color: #ff931e;}
+            color: #ff931e;
+        }
 
         .text-line:before {
             background-color: #c1272d !important;
@@ -395,7 +398,18 @@
                         <!-- /.navbar-nav -->
                         <div class="offcanvas-footer d-lg-none">
                             <div>
-                                
+                                <nav class="nav social social-white mt-4">
+                                    <a href="https://twitter.com/nawadwipa" target="_blank"><i class="uil uil-twitter"></i></a>
+                                    <a href="https://www.facebook.com/nawadwipa/" target="_blank"><i class="uil uil-facebook-f"></i></a>
+                                    <a href="https://www.instagram.com/nawadwipa_bin/" target="_blank"><i class="uil uil-instagram"></i></a>
+                                    <a href="https://www.youtube.com/@nawadwipa" target="_blank"><i class="uil uil-youtube"></i></a>
+                                </nav>
+                                <!-- /.social -->
+                            </div>
+                        </div>
+                        <!-- /.offcanvas-footer -->
+                    </div>
+                    <!-- /.offcanvas-body -->
                 </div>
                 <!-- /.navbar-collapse -->
                 <div class="navbar-other w-100 d-flex ms-auto">
@@ -480,18 +494,23 @@
                     </div>
                     <div class="col-lg-8 website-title">
                         <h6 class="mb-6 text-upercase">Design X-Banner</h6>
+                        
                         <p class="mb-3">X-Banner merupakan media promosi indoor maupun outdoor yang sangat efektif untuk meningkatkan kesadaran pelanggan akan produk yang akan anda jual.</p>
                     </div>
-                </div>
+                     </div>
+                <a href="" class="ml-1 underline">
+                                Edit
+                            </a>
             </div>
             <div class="row">
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
                     <div class="col-lg-8 website-title">
                         <h6 class="mb-6 text-upercase">Design Baliho / Banner</h6>
+                        
                         <p class="mb-3">Banner dan Baliho merupakan media promosi offline yang sangat efektif untuk meningkatkan kesadaran pelanggan akan produk yang akan anda jual.</p>
                     </div>
                     <div class="col-md-4 col-lg-4 col-xl-4 order-lg-2 position-relative">
-                    <img src="https://cdn.vectorstock.com/i/preview-1x/35/75/advertising-company-isometric-website-vector-25253575.jpg" height="73%" data-id="25253575" data-title="advertising company isometric website" data-ratio="1.856" alt="Advertising company isometric website vector">
+                    <img src="https://cdn.vectorstock.com/i/preview-1x/35/75/advertising-company-isometric-website-vector-25253575.jpg" height="55%" data-id="25253575" data-title="advertising company isometric website" data-ratio="1.856" alt="Advertising company isometric website vector">
                     </div>
                 </div>
             </div>

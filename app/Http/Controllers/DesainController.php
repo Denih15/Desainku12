@@ -14,4 +14,12 @@ class DesainController extends Controller
     public function creates(){
         return view('Tambah');
     }
+
+    public function created(){
+        return view('kontakedit');
+    }
+
+    public function createf(){
+        return view('homeedit');
+    }
 }

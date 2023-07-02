@@ -1,0 +1,279 @@
+
+        .page {
+            padding-top: 120px;
+            padding-bottom: 120px;
+        }
+
+        .color-new {
+            color: #c1272d;
+        }
+
+        .color-new:hover {
+            color: #ff931e;
+        }
+
+        .text-line:before {
+            background-color: #c1272d !important;
+        }
+
+        .line-through {
+            text-decoration: line-through;
+        }
+
+        .accordion-wrapper .card-header button {
+            color: #ffffff !important;
+        }
+
+        .website-title h6 {
+            color: #ff931e !important;
+        }
+
+        .navbar-nav .nav-item .nav-link:hover {
+            color: #ff931e !important;
+        }
+
+        /*SIDEBAR CSS*/
+        .unordered-list.bullet-primary li:before {
+            display: none !important;
+        }
+
+        .unordered-list li {
+            padding-left: 0 !important;
+        }
+
+        .bg-dot.primary {
+            background-image: radial-gradient(#f3521f 2px, transparent 2.5px) !important;
+        }
+
+        .btn-outline-white:hover,
+        .btn-white,
+        .btn-white.btn-expand i,
+        .btn-white:focus,
+        .btn-white:not(.btn-play):hover {
+            color: white !important;
+        }
+
+        .breadcrumbs-container a {
+            color: #ff931e !important;
+            text-decoration: none;
+        }
+
+        .btn-white {
+            background-color: #ff931e !important;
+            border: 0px !important;
+        }
+
+        .btn-white1 {
+            background-color: none;
+            border: 2px solid #fff;
+            color: #fff;
+        }
+
+        .btn-primary {
+            color: #fff;
+            background: #ff931e !important;
+            border: 0px !important;
+        }
+
+        .navbar.navbar-light.fixed .btn:not(.btn-expand) {
+            background: #ff931e !important;
+            border: 0px !important;
+            color: #fff;
+        }
+
+        .bg-dark {
+            background-color: #000 !important;
+        }
+
+        .bg-dark1 {
+            background-color: #1d2329 !important;
+        }
+
+        .bg-dark.text-inverse a:not(.btn):not([class*=link-]):hover,
+        .bg-navy.text-inverse a:not(.btn):not([class*=link-]):hover,
+        .text-inverse a:not(.btn):hover,
+        [class*=offcanvas-].text-inverse a:not(.btn):not([class*=link-]):hover {
+            color: #ff931e !important;
+        }
+
+        .accordion-wrapper .card-header button:before {
+            color: #ff931e !important;
+        }
+
+        .accordion-wrapper .card-header button.collapsed {
+            color: #ff931e !important;
+        }
+
+        .title-text {
+            color: #fff !important;
+            font-size: 20px !important;
+            padding-bottom: 60px;
+        }
+
+        .content .display-2 {
+            font-size: 60px;
+        }
+
+        .layanan .page .card {
+            border-radius: 40px;
+            background-color: #1d2329 !important;
+            color: white;
+            font-size: 15px;
+            margin: 0px 15px;
+        }
+
+        .layanan .page .card h4 {
+            color: #fff !important;
+        }
+
+        .layanan .page .hover:hover {
+            background-image: linear-gradient(to bottom right, #f75918, #dc1d4e) !important;
+        }
+
+        .layanan .page .active,
+        .hover:hover {
+            background-image: linear-gradient(to bottom right, #f75918, #dc1d4e) !important;
+
+        }
+
+        .layanan .page .card .card-body .btn-white {
+            background-color: white !important;
+            font-size: 15px;
+            color: #1d2329 !important;
+        }
+
+        .pricing.card.bg-dark1 p,
+        .pricing.card.bg-dark p {
+            color: #fff !important;
+        }
+
+        .ulasan h2 {
+            color: #fff !important;
+        }
+
+        .footer.bg-dark,
+        footer.bg-dark {
+            background-color: #000 !important;
+        }
+
+        hr {
+            margin-top: 100px !important;
+            margin-bottom: 50px !important;
+        }
+
+        .widget .fa-brands {
+            color: #f7931e !important;
+        }
+
+        .widget .btn-soft-purple {
+            background-color: transparent !important;
+        }
+
+        .link-dark-new {
+            color: #ff931e !important;
+        }
+
+        .link-dark {
+            color: #ff931e !important;
+        }
+
+        .link-dark:hover,
+        .text-reset a:hover,
+        a.text-reset:hover {
+            color: white !important;
+        }
+
+        .link-dark-new:hover {
+            color: #c1272d !important;
+        }
+
+        .link-dark:hover {
+            color: white !important;
+        }
+
+        /* CSS Page Header Title */
+        .post-header h2 {
+            font-size: 30px;
+        }
+
+        /* CSS Halaman Web Design */
+        .website-title h6 {
+            color: #f95e14;
+        }
+
+        .website-title {
+            color: #ffffff;
+        }
+
+        .card-body .pricing-title {
+            color: #fff;
+            font-weight: 500;
+        }
+
+        .card-body .price-title {
+            color: #fff;
+            font-weight: bolder;
+        }
+
+        .card-body .price-currency {
+            color: #fff;
+        }
+
+        .pricing .card-body h4 {
+            color: #fff;
+        }
+
+        .wrapper .jasa .website-title h2 .judul {
+            color: #fff;
+        }
+
+        .progress-wrap:after {
+            color: #ff931e !important;
+        }
+
+        .progress-wrap svg.progress-circle path {
+            stroke: #ff931e !important;
+        }
+
+        /*Page pagination */
+        .page-pagination li {
+            display: inline-block;
+            color: #fff !important;
+        }
+
+        .page-pagination li a.current {
+            background: #ff931e !important;
+            color: #ffffff !important;
+        }
+
+        .page-pagination li a {
+            font-weight: 500;
+            padding: 0 7px;
+            display: block;
+            text-align: center;
+            line-height: 25px;
+            width: 25px;
+            height: 25px;
+            text-transform: uppercase;
+            color: #fff;
+            border-radius: 500px;
+        }
+
+        .widget.btn.btn-circle.btn-lg a {
+            cursor: pointer !important;
+        }
+
+        .swiper-controls .swiper-pagination {
+            display: none;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .content .display-2 {
+                font-size: 30px;
+            }
+
+            .post-header h2 {
+                font-size: 25px;
+            }
+        }
+    
